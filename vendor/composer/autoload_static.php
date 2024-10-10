@@ -36,7 +36,6 @@ class ComposerStaticInit41642be271e631f03d951dc89be08c5c
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
-            'Guibarao\\NotificadorEditais\\' => 28,
         ),
     );
 
@@ -81,10 +80,6 @@ class ComposerStaticInit41642be271e631f03d951dc89be08c5c
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
-        ),
-        'Guibarao\\NotificadorEditais\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
