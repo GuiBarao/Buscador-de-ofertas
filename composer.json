@@ -1,0 +1,21 @@
+{
+    "name": "guibarao/notifica-edital",
+    "description": "Busca por ofertas no site do mercado livre.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Barão",
+            "email": "guibarao04@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^7.1",
+        "symfony/css-selector": "^7.1"
+    }
+}
